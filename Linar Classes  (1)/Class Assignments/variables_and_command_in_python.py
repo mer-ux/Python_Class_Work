@@ -1,0 +1,27 @@
+'''create variables storing different data types'''
+number_of_churches = "21"  
+favourite_food = "jollof rice"
+number_of_tenants = "7"
+name = "olajuwon"
+status = "middle class"  #shows the financial status of the person
+music_genre = "jazz"  
+favourite_colour = "brown"
+number_of_churches = "76"
+room_number = "83"
+clothing_brand_name = "gucci"
+change_from_budget = 321.44
+wages = 1254.116
+value_wrist_watch = 22.56
+house_rent = 777.99
+yearly_expense = 22.9
+income = 66.33
+age = 7.2
+value_of_house = 70.54
+pregnancy_test_result = False #shows that the pregnancy result is negative
+switch_off = True
+all_teachers_absent = False
+chances_of_rainfall = False
+recorded_deaths_in_accident = True
+car_engine_status = True  
+generator_switch = False
+survival_rate = False
