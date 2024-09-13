@@ -2,7 +2,7 @@
 date_of_birth = ("enter your date of birth")
 print(date_of_birth)
 
-social_status = ("enter your social status")
+social_status = ("enter your marital status")
 print(social_status)
 
 relationship_status =("enter your relationship status")
